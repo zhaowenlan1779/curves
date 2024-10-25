@@ -6,7 +6,6 @@
     nonstandard_style,
     rust_2018_idioms
 )]
-#![forbid(unsafe_code)]
 
 //! This library implements the BN254 curve that was sampled as part of the [\[BCTV14\]](https://eprint.iacr.org/2013/879.pdf) paper .
 //! The name denotes that it is a Barreto--Naehrig curve of embedding degree 12,

@@ -28,6 +28,7 @@ std = [ "ark-std/std", "ark-ff/std", "ark-ec/std" ]
 
 curve = [ "scalar_field" ]
 scalar_field = []
+asm = []
 
 [[bench]]
 name = "bn254"
